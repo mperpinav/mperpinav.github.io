@@ -1,5 +1,11 @@
 # mperpinav.github.io
-Visualizaciones de la PEC2 de Mireia Perpiñá Valdés para la asignatura de Visualización de Datos del Máster en Ciencia de Datos de la UOC. En mi caso, se me han asignado las técnicas de visualización *Heatmap*, *Voronoy Diagram* y *Tile grid map*. Les dejo a continuación como acceder a cada una de ellas:
+Visualizaciones de Mireia Perpiñá Valdés para la asignatura de Visualización de Datos del Máster en Ciencia de Datos de la UOC. 
+**PEC 3** He escogido la herramienta FlourishStudio para realizar el **Storytelling**: https://public.flourish.studio/story/2757576/
+
+
+
+
+**PEC 2**En mi caso, se me han asignado las técnicas de visualización *Heatmap*, *Voronoy Diagram* y *Tile grid map*. Les dejo a continuación como acceder a cada una de ellas:
 
 - **Heatmap**: https://public.tableau.com/app/profile/mireia.perpi.a/viz/HEATMAP_MIREIA_PERPIA_PEC2_VISUALIZACIN/Hoja1
   
