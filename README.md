@@ -1,5 +1,7 @@
 # mperpinav.github.io
 Visualizaciones de Mireia Perpiñá Valdés para la asignatura de Visualización de Datos del Máster en Ciencia de Datos de la UOC. 
+
+
 **PEC 3** He escogido la herramienta FlourishStudio para realizar el **Storytelling**: https://public.flourish.studio/story/2757576/
 
 
