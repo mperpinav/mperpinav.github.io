@@ -13,7 +13,7 @@ Además, he usado RStudio para el tratamiento de los datos: *https://mperpinav.g
 
 
 
-########################################################################################################################################################################
+#######################################################################################################
 
 
 **PEC 2**En mi caso, se me han asignado las técnicas de visualización *Heatmap*, *Voronoy Diagram* y *Tile grid map*. Les dejo a continuación como acceder a cada una de ellas:
