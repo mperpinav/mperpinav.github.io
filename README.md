@@ -1,9 +1,9 @@
 # mperpinav.github.io
 Visualizaciones de Mireia Perpiñá Valdés para la asignatura de Visualización de Datos del Máster en Ciencia de Datos de la UOC. 
 
-**Práctica 1** He escogido la herramienta FlourishStudio para realizar un **Storytelling**: https://public.flourish.studio/story/2816670/
+**Práctica 1** He escogido la herramienta FlourishStudio para realizar un **Storytelling**: *https://public.flourish.studio/story/2816670/*
 
-Además, he usado RStudio para el tratamiento de los datos: https://mperpinav.github.io/PERPIÑA_VALDES_MIREIA_PRACTICA_PARTE2.html
+Además, he usado RStudio para el tratamiento de los datos: *https://mperpinav.github.io/PERPIÑA_VALDES_MIREIA_PRACTICA_PARTE2.html*
 
 
 
@@ -11,6 +11,9 @@ Además, he usado RStudio para el tratamiento de los datos: https://mperpinav.gi
 **PEC 3** He escogido la herramienta FlourishStudio para realizar el **Storytelling**: https://public.flourish.studio/story/2757576/
 
 
+
+
+########################################################################################################################################################################
 
 
 **PEC 2**En mi caso, se me han asignado las técnicas de visualización *Heatmap*, *Voronoy Diagram* y *Tile grid map*. Les dejo a continuación como acceder a cada una de ellas:
