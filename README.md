@@ -6,15 +6,17 @@ Visualizaciones de Mireia Perpiñá Valdés para la asignatura de Visualización
 Además, he usado RStudio para el tratamiento de los datos: *https://mperpinav.github.io/PERPIÑA_VALDES_MIREIA_PRACTICA_PARTE2.html*
 
 
+#######################################################################################################
 
+#######################################################################################################
 
-**PEC 3** He escogido la herramienta FlourishStudio para realizar el **Storytelling**: https://public.flourish.studio/story/2757576/
-
-
+#######################################################################################################
 
 
 #######################################################################################################
 
+
+**PEC 3** He escogido la herramienta FlourishStudio para realizar el **Storytelling**: https://public.flourish.studio/story/2757576/
 
 **PEC 2**En mi caso, se me han asignado las técnicas de visualización *Heatmap*, *Voronoy Diagram* y *Tile grid map*. Les dejo a continuación como acceder a cada una de ellas:
 
