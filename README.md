@@ -2,6 +2,7 @@
 Visualizaciones de Mireia Perpiñá Valdés para la asignatura de Visualización de Datos del Máster en Ciencia de Datos de la UOC. 
 
 **Práctica 1** He escogido la herramienta FlourishStudio para realizar un **Storytelling**: https://public.flourish.studio/story/2816670/
+
 Además, he usado RStudio para el tratamiento de los datos: https://mperpinav.github.io/PERPIÑA_VALDES_MIREIA_PRACTICA_PARTE2.html
 
 
